@@ -23,6 +23,7 @@ public class GitSharing {
 				//System.out.println(c);
 				System.out.print(str+chn);
 				System.out.print("simple");
+				System.out.println("V4");
 				
 		
 			}
