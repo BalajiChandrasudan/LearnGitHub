@@ -16,11 +16,12 @@ public class GitSharing {
 			{
 				int ascii= charArray[i];
 				ascii = ascii+1;
-				char c = (char) ascii;
+				//char c = (char) ascii;
+				char chn = (char) ascii;
 				
 //				charArray=charArray+ascii;
 				//System.out.println(c);
-				System.out.print(str+c);
+				System.out.print(str+chn);
 				System.out.print("simple");
 				
 		
